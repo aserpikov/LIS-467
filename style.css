@@ -1,0 +1,23 @@
+/*Lab 2, Alex Serpikov, CSS*/
+
+/* Body */
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+  
+/* Header */
+.header {
+    padding: 25px;
+    text-align: center;
+    background: #f3c9ea;
+    color: white;
+}
+
+/*Responsive layout*/
+@media screen and (max-width: 600px) {
+    .body {
+        max-width: 100%;
+    }
+}
+  
