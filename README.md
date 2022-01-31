@@ -1,2 +1,2 @@
 # hello-world
-This will be a repository for classwork and other files I may need to transfer between devices
+This is a repository for class files for LIS 467
